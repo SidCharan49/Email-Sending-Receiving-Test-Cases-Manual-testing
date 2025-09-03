@@ -6,7 +6,7 @@ It includes both **positive** and **negative** scenarios to ensure reliability a
 ---
 
 ## 📂 File Included
-- 
+- **test_case_email_sending_receiving.xlsx**
 
 ---
 
@@ -32,12 +32,6 @@ Each test case includes:
 
 ---
 
-## 🎯 Use Cases
-- QA Training and Interview Preparation  
-- Manual Testing Practice  
-- Converting into Automation Test Scripts  
-
----
 
 ## 📖 How to Use
 1. Open the Excel file in **MS Excel** or **Google Sheets**.  
